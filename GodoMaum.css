@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'GodoMaum';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.ttf') format("truetype");
+    font-display: swap;
+} 

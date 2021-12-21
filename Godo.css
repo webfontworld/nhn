@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Godo';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMedium.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Godo';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoBold.ttf') format("truetype");
+    font-display: swap;
+} 
