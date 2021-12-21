@@ -67,8 +67,8 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'GodoRounded';
-    font-weight: 300;
+    font-family: 'GodoMaum';
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/nhn/GodoMaum.eot?#iefix') format('embedded-opentype'),
